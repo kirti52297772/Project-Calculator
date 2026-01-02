@@ -1,0 +1,43 @@
+html,body{
+    height:100%;
+    width:100%;
+    background-color:#394764 ;
+}
+
+.button{
+    padding:20px;
+    width:66px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+.basic-btn{
+  background-color: #d13f30; 
+}
+.row{
+    margin: 8px 0;
+    width:23vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+.row input{
+    width:350px;
+    height: 40px;
+    font-size:20px;
+    color: antiquewhite;
+    margin:0;
+    padding:10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #182033;
+}
+.settings{
+   background-color: #242c41;
+}
+.basic-delete{
+    background-color: #637197;
+}
